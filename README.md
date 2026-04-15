@@ -114,10 +114,3 @@ http://localhost:3001
 - If a payment is cancelled, the retry flow creates a fresh transaction UUID before reopening eSewa
 - The app stores support attempts and verified payment records in MongoDB
 
-## Future Improvements
-
-- Move Tailwind from CDN to a proper build setup
-- Add better validation and sanitization
-- Add an admin or support history dashboard
-- Add production-ready error handling
-- Switch from test credentials to live eSewa credentials when available
