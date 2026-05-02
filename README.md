@@ -11,6 +11,7 @@ This project is currently configured with the eSewa test gateway, so it demonstr
 Deployed on Render:
 
 `https://buy-me-coffee-hmx3.onrender.com`
+eSewa : 9806800001 password : Nepal@123
 
 ## Features
 
